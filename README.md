@@ -2,7 +2,6 @@
 
 The first ever **100% PowerShell** (OGFN) OG Fortnite launcher. No compiled EXEs, no external dependencies — just `.ps1` scripts.
 
-Both a CLI and GUI version are included. Same features, same injection engine, pick your style.
 
 ## Features
 
@@ -20,9 +19,6 @@ Both a CLI and GUI version are included. Same features, same injection engine, p
 ### CLI (`Launcher\Launcher.ps1`)
 Classic terminal-based launcher with colored output, arrow-key-free numbered menus, and ASCII banner.
 
-### GUI (`Launcher\Launcher GUI.ps1`)
-WPF-based dark theme GUI built entirely in PowerShell using `PresentationFramework`. Same engine under the hood.
-
 ## How to Run
 
 1. Right-click `Launcher.ps1` or `Launcher GUI.ps1` > **Run with PowerShell**
@@ -37,7 +33,6 @@ WPF-based dark theme GUI built entirely in PowerShell using `PresentationFramewo
 PowerShellFN/
   Launcher/
     Launcher.ps1          # CLI version
-    Launcher GUI.ps1      # GUI version (WPF)
     Launch.bat            # Quick launcher shortcut
     LauncherIcon.ico      # Window icon
   Readme.md
