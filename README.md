@@ -1,6 +1,7 @@
 # PowerShellFN
 
 The first ever **100% PowerShell** (OGFN) OG Fortnite launcher. No compiled EXEs, no external dependencies — just `.ps1` scripts.
+<img width="1128" height="636" alt="1000007133" src="https://github.com/user-attachments/assets/b6b5cf1e-e64b-4ed4-8663-a861c4c95b5b" />
 
 
 ## Features
