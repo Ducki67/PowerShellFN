@@ -22,7 +22,7 @@ Classic terminal-based launcher with colored output, arrow-key-free numbered men
 
 ## How to Run
 
-1. Right-click `Launcher.ps1` or `Launcher GUI.ps1` > **Run with PowerShell**
+1. Right-click `Launcher.ps1` > **Run with PowerShell**
 2. Or double-click (if execution policy allows)
 3. On first run, DLLs are downloaded automatically
 
